@@ -23,7 +23,7 @@
 
 Soy científico de datos con experiencia práctica en la **Pontificia Universidad Javeriana**, donde desarrollo dashboards en Power BI y automatizo procesos con Python. Mi enfoque está en **riesgo crediticio y detección de fraude aplicados al sector financiero colombiano**.
 
-- 🏦 **Meta 2026:** posición junior DS/DA en banca colombiana (Bancolombia · Davivienda · BTG · Banco de Bogotá)
+- 🏦 **Meta 2026:** posición junior DS/DA en banca colombiana
 - 📊 **Especialidad en construcción:** fraude en transacciones · scoring crediticio · analítica financiera
 - 🧮 Base sólida en estadística y matemáticas aplicadas
 - 🔍 Actualmente construyendo portafolio con datasets reales de Kaggle (IEEE-CIS + Home Credit)
@@ -53,8 +53,6 @@ Soy científico de datos con experiencia práctica en la **Pontificia Universida
   <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
   <img src="https://img.shields.io/badge/XGBoost-189600?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LightGBM-2980B9?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logoColor=white"/>
 </p>
 
 **Visualización & BI**
