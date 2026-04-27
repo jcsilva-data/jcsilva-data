@@ -1,108 +1,100 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Juan+Camilo+%F0%9F%91%8B;Científico+de+Datos+%7C+Bogotá%2C+Colombia;Machine+Learning+aplicado+a+Banca" alt="Typing SVG" />
-</h1>
-
 <p align="center">
-  <b>Científico de Datos · Ingeniería de Sistemas + Maestría en Informática Biomédica</b><br>
-  Universidad El Bosque &nbsp;·&nbsp; Practicante DS en la Pontificia Universidad Javeriana
+  <img src="./banner.svg" alt="Juan Camilo Silva — Data Scientist" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/juancasilvape">
-    <img src="https://img.shields.io/badge/LinkedIn-juancasilvape-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-juancasilvape-00ffff?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=050020&color=050020"/>
   </a>
+  &nbsp;
   <a href="mailto:juancasilvape@gmail.com">
-    <img src="https://img.shields.io/badge/Email-juancasilvape@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-juancasilvape-ff00ff?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=050020&color=050020"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=jcsilva-data&style=for-the-badge&color=58A6FF&label=Visitas" alt="Profile views"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=jcsilva-data&style=for-the-badge&color=00ff9f&label=VISITAS&labelColor=050020"/>
 </p>
 
 ---
 
-## 🎯 Sobre mí
+```
+> whoami
+  Juan Camilo Silva Perilla — Científico de Datos
+  Bogotá, Colombia
 
-Soy científico de datos con experiencia práctica en la **Pontificia Universidad Javeriana**, donde desarrollo dashboards en Power BI y automatizo procesos con Python. Mi enfoque está en **riesgo crediticio y detección de fraude aplicados al sector financiero colombiano**.
+> cat objetivo.txt
+  Meta 2026: posición junior DS/DA en banca colombiana.
+  Bancolombia · Davivienda · BTG Pactual · Banco de Bogotá.
+  Especialidad: detección de fraude · scoring crediticio · analítica financiera.
 
-- 🏦 **Meta 2026:** posición junior DS/DA en banca colombiana
-- 📊 **Especialidad en construcción:** fraude en transacciones · scoring crediticio · analítica financiera
-- 🧮 Base sólida en estadística y matemáticas aplicadas
-- 🔍 Actualmente construyendo portafolio con datasets reales de Kaggle (IEEE-CIS + Home Credit)
+> status
+  [■■■■■░░░░░] CONSTRUYENDO PORTAFOLIO — Q1/Q2 2026
+```
 
 ---
 
-## 🚀 Proyectos de Portafolio
+## `~/proyectos`
 
 | Proyecto | Descripción | Stack | Estado |
 |----------|-------------|-------|--------|
-| [🔍 Detección de Fraude](https://github.com/jcsilva-data/fraud-detection) | Pipeline ML completo sobre IEEE-CIS (590k transacciones). EDA con narrativa de negocio, SMOTE, XGBoost, evaluación con AUC-ROC y métricas bancarias | Python · XGBoost · scikit-learn · SMOTE | 🔄 En progreso |
+| [🔍 fraud-detection](https://github.com/jcsilva-data/fraud-detection) | ML sobre IEEE-CIS (590k transacciones). EDA con narrativa bancaria, SMOTE, XGBoost, evaluación con AUC-ROC | `XGBoost` `SMOTE` `scikit-learn` | 🔄 EN PROGRESO |
 
 ---
 
-## 🛠️ Stack Técnico
+## `~/stack`
 
-**Lenguajes**
+**[ LENGUAJES ]**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,mysql&theme=dark" />
 </p>
 
-**Machine Learning & Datos**
+**[ MACHINE LEARNING & DATOS ]**
 
 <p>
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-189600?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikit-learn&logoColor=ff00ff"/>
+  <img src="https://img.shields.io/badge/XGBoost-0d0d0d?style=flat-square&logoColor=00ff9f"/>
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=flat-square&logoColor=00ffff"/>
+  <img src="https://img.shields.io/badge/seaborn-0d0d0d?style=flat-square&logoColor=00ffff"/>
 </p>
 
-**Visualización & BI**
+**[ BI & CLOUD ]**
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/seaborn-4EACD5?style=for-the-badge&logoColor=white"/>
-</p>
-
-**Cloud & Herramientas**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=azure,git,github,vscode&theme=dark" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 ---
 
-## 📜 Certificaciones
+## `~/certificaciones`
 
 <p>
-  <img src="https://img.shields.io/badge/Kaggle-Intro%20to%20ML-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-Pandas-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kaggle-Intermediate%20ML-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</p>
-
-**En progreso:**
-
-<p>
-  <img src="https://img.shields.io/badge/Coursera-ML%20Specialization%20%E2%80%94%20Andrew%20Ng-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_Kaggle-Intro_to_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_Kaggle-Pandas-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%E2%9C%93_Kaggle-Intermediate_ML-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%E2%23B3_Coursera-ML_Specialization_(Andrew_Ng)-0056D2?style=flat-square&logo=coursera&logoColor=white"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## `~/stats`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcsilva-data&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jcsilva-data&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=020010&title_color=00ffff&icon_color=ff00ff&text_color=c9d1d9" height="158"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsilva-data&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jcsilva-data&layout=compact&theme=radical&hide_border=true&bg_color=020010&title_color=00ffff&text_color=c9d1d9&langs_count=6" height="158"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jcsilva-data&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=jcsilva-data&theme=radical&hide_border=true&background=020010&ring=00ffff&fire=ff00ff&currStreakLabel=00ff9f&sideLabels=00ffff&dates=888888" height="158"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Los proyectos abren puertas.</i>
+  <code>// los proyectos abren puertas. los cursos, no. //</code>
 </p>
