@@ -35,8 +35,6 @@ Soy científico de datos con experiencia práctica en la **Pontificia Universida
 | Proyecto | Descripción | Stack | Estado |
 |----------|-------------|-------|--------|
 | [🔍 Detección de Fraude](https://github.com/jcsilva-data/fraud-detection) | Pipeline ML completo sobre IEEE-CIS (590k transacciones). EDA con narrativa de negocio, SMOTE, XGBoost, evaluación con AUC-ROC y métricas bancarias | Python · XGBoost · scikit-learn · SMOTE | 🔄 En progreso |
-| [💳 Scoring Crediticio](https://github.com/jcsilva-data/credit-scoring) | Predicción de default con Home Credit Dataset (307k registros). Feature engineering financiero, LightGBM y SHAP explainability | Python · LightGBM · SHAP · pandas | 📅 Jun–Jul 2026 |
-| [📊 Dashboard Bancario](https://github.com/jcsilva-data/banking-dashboard) | Modelo de riesgo conectado a Power BI mediante Python. Pipeline automatizado con métricas de cartera actualizadas | Power BI · Python · API | 📅 Ago 2026 |
 
 ---
 
