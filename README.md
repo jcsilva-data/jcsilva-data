@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Juan Camilo Silva — Data Scientist" width="100%"/>
+  <img src="./banner.png" alt="Juan Camilo Silva — Data Scientist" width="100%"/>
 </p>
 
 <p align="center">
