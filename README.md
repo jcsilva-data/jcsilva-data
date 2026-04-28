@@ -2,8 +2,6 @@
   <img src="./banner.svg" alt="Juan Camilo Silva — Data Scientist" width="100%"/>
 </p>
 
-<br/>
-
 <p align="center">
   <a href="https://linkedin.com/in/juancasilvape">
     <img src="https://img.shields.io/badge/LinkedIn-juancasilvape-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -16,22 +14,20 @@
   <img src="https://komarev.com/ghpvc/?username=jcsilva-data&style=for-the-badge&color=00ff9f&label=VISITAS&labelColor=1a1a2e"/>
 </p>
 
-<br/>
-
 ---
 
-```
-> whoami
-  Juan Camilo Silva Perilla — Científico de Datos
-  Bogotá, Colombia
+```bash
+whoami
+Juan Camilo Silva Perilla — Científico de Datos
+Bogotá, Colombia
 
-> cat objetivo.txt
-  Meta 2026: posición junior DS/DA en banca colombiana.
-  Bancolombia · Davivienda · BTG Pactual · Banco de Bogotá.
-  Especialidad: detección de fraude · scoring crediticio · analítica financiera.
+cat objetivo.txt
+Meta 2026: conseguir una posición junior como Data Scientist / Data Analyst en banca colombiana.
+Bancolombia · Davivienda · BTG Pactual · Banco de Bogotá
+Especialidad: detección de fraude · scoring crediticio · analítica financiera
 
-> status
-  [■■■■■░░░░░] CONSTRUYENDO PORTAFOLIO — Q1/Q2 2026
+status
+[■■■■■░░░░░] CONSTRUYENDO PORTAFOLIO — Q1/Q2 2026
 ```
 
 ---
@@ -40,7 +36,7 @@
 
 | Proyecto | Descripción | Stack | Estado |
 |----------|-------------|-------|--------|
-| [🔍 fraud-detection](https://github.com/jcsilva-data/fraud-detection) | Pipeline ML sobre IEEE-CIS (590k transacciones). EDA con narrativa bancaria, SMOTE, XGBoost, AUC-ROC | `XGBoost` `SMOTE` `scikit-learn` | 🔄 En progreso |
+| [🔍 fraud-detection](https://github.com/jcsilva-data/fraud-detection) | Pipeline de Machine Learning sobre dataset IEEE-CIS (590k transacciones). EDA enfocado en contexto bancario, manejo de desbalanceo con SMOTE y modelo XGBoost optimizado con AUC-ROC | `XGBoost` `SMOTE` `scikit-learn` | 🔄 En progreso |
 
 ---
 
@@ -103,5 +99,5 @@
 ---
 
 <p align="center">
-  <code>// los proyectos abren puertas. los cursos, no. //</code>
+  <code>// los proyectos abren puertas. la práctica las mantiene abiertas. //</code>
 </p>
